@@ -84,3 +84,6 @@ printf("\n%f\t%f",time,(count)/1000000);
 }
 END {
 }
+
+
+awk –f ex1.awk ex1.tr
